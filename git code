@@ -4,3 +4,6 @@
 4.git commit -m "intropython"
 5. replace with yours - git remote add origin https://github.com/Mumbi23-devke/Mumbi23-devke.git
 6.git push -u origin master
+
+------after deployment------
+
