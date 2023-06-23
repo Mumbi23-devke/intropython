@@ -7,5 +7,4 @@ print(name)
 x = "28"
 y = "18"
 print(y)
-print(x+y)
 print(x)

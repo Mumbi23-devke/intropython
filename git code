@@ -8,5 +8,5 @@
 ----after deployment----
 
 1.git add .
-2.git commit -m "changed contact name in website"
+2.git commit -m "intropython"
 3.git push -u origin master
